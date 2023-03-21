@@ -15,11 +15,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaiumuddin&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiumuddin&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="(https://i.redd.it/520hz0cgh8471.jpg)" width="512px"/>
+### 😂 Dev Meme
+<img src="https://i.redd.it/520hz0cgh8471.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kaiumuddin&icon=5&color=1)](https://visitcount.itsvg.in)
