@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaiumuddin
-- 👀 I’m interested in progamming
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on MERN projects
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning React and Django
+- 💞️ I’m looking to collaborate on React and Django projects
 
 
 ## 🌐 Socials:
